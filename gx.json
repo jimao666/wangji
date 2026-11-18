@@ -3,6 +3,6 @@
   "noticeTitle":"王记APP公告",
   "noticeContent": "欢迎使用王记APP！\n\n同频共振只是本APP其中一个局域网对账小功能。\n1、微信/支付宝导入CSV属于单方凭证，必须对方设备手动确认，才是双方铁证。\n2、导出凭证存Download目录，卸载APP不会丢失。\n3、局域网搜索需要本地网络权限，无权限就手动填写IP。\n⚠️凭证SHA‑256哈希双方一致才算有效。\nby:西门吹雪",
   "minSupportedVersionCode": 102,
-  没有任何的数据.: "当前版本过低，请更新APP才能继续使用",
+  "forceUpdateMsg": "当前版本过低，请更新APP才能继续使用",
   "updateDownloadUrl": "https://xxx下载地址"
 }
